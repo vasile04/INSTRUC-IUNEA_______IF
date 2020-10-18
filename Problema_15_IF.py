@@ -14,5 +14,5 @@ if (x>=76) and (x<=100):
     print('Radu va fi in clasa a V-a "D"')
 if(x>=101) and (x<=ntot):
     print('Radu va fi in clasa a V-a "E"')
-if (x>=ntot):
+if (x>ntot):
     print('Eroare')
